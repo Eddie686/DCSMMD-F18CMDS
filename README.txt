@@ -1,8 +1,5 @@
 name    : AN/ALE-47 CMDS
 author  : Eddie
-org     : 476th
-dist    : public
-docs    : http://www.476vfightergroup.com/downloads.php?do=file&id=492
 date    : 02-06-18
 purpose : add custom presets for the F/A-18C CMDS and adjusts RWR sybology
 
